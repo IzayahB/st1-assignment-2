@@ -25,15 +25,15 @@ Week 5 | 60 minutes
 
 # Activity 2 - Functional or Non-Functional?
 
-□ Functional □ Non-functional The system shall allow staff to cancel an appointment.
+□ Functional The system shall allow staff to cancel an appointment.
 
-□ Functional □ Non-functional The system should remain responsive for the course-scale dataset.
+□ Non-functional The system should remain responsive for the course-scale dataset.
 
-□ Functional □ Non-functional The system shall retain cancelled appointments.
+□ Functional The system shall retain cancelled appointments.
 
-□ Functional □ Non-functional Core business logic should be independently testable.
+□ Non-functional Core business logic should be independently testable.
 
-□ Functional □ Non-functional The system shall search for a patient by ID.
+□ Functional The system shall search for a patient by ID.
 
 # Activity 3 - Repair Ambiguous Requirements
 
